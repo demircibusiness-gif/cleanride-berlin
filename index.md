@@ -1,11 +1,9 @@
-# Willkommen auf meiner professionellen Seite!
+# Willkommen bei den Profis!
 
-Dies ist mein neues Portfolio, gehostet auf **GitHub Pages**.
-
-## Meine Leistungen
-* Web-Design
-* Strategische Beratung
-* Kaffee trinken und Code schreiben
+## Leistungen
+* Fahrzeuginnen- und außenwäsche
+* Leasingaufbereitung
+* Versieglung (Keramik, Carnaubawachs)
 
 ### Kontakt
-Schreib mir gerne eine E-Mail oder besuche mein [LinkedIn-Profil](https://linkedin.com).
+Auftragsbuchung über die Website oder per WhatsApp [LinkedIn-Profil](https://linkedin.com).
